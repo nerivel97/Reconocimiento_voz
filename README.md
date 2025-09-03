@@ -35,6 +35,7 @@ pip install nombre_del_archivo.whl
 
 
 --- Cómo ejecutar el programa en VS Code ---
+
 Clona o descarga este repositorio en tu computadora.
 
 Abre la carpeta del proyecto en Visual Studio Code.

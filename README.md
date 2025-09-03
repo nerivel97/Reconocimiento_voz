@@ -16,9 +16,11 @@ Permite grabar audio desde el micrófono y transcribirlo en tiempo real mediante
 3. Instalar las dependencias necesarias. Abre una terminal y ejecuta:
 
 
+
 *pip install SpeechRecognition pyaudio*
 
 Si despues de esto en la terminal no hay error, ir hasta --- Como ejecutar
+
 De lo contrario seguir indicaciones siguientes.
 
 ⚠ En algunos sistemas, pyaudio puede dar problemas de instalación.
@@ -28,6 +30,8 @@ Descarga el .whl de PyAudio para tu versión de Python.
 
 Luego instala con:
 pip install nombre_del_archivo.whl
+
+
 
 
 --- Cómo ejecutar el programa en VS Code ---

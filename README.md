@@ -53,7 +53,9 @@ Selecciona la opción 1, habla por el micrófono y espera la transcripción.
 
 Para terminar, selecciona la opción 2.
 
+
 --- Notas ---
+
 El programa reconoce voz en español (México) (es-MX).
 
 Es necesario tener un micrófono funcional conectado al sistema.

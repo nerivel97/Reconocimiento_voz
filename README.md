@@ -1,5 +1,5 @@
 --------------------------------------------------------------
-#   P R O G R A M A   D E   V O Z  A  T E X T O   S I M P L E
+#   PROGRAMA DE VOZ A TEXTO SIMPLE
 --------------------------------------------------------------
 
 Primero que nada clonar o descargar el proyecto

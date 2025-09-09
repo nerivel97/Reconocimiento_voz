@@ -1,17 +1,17 @@
 --------------------------------------------------------------
-   P R O G R A M A   D E   V O Z  A  T E X T O   S I M P L E
+#   P R O G R A M A   D E   V O Z  A  T E X T O   S I M P L E
 --------------------------------------------------------------
 
 
-EJECUCION DEL .EXE
+# EJECUCION DEL .EXE
 
 
-REQUISITOS:
+# REQUISITOS:
 1.- Tu dispositivo debe contar con acceso a Internet.
 
 
 
-COMO EJECUTAR:
+# COMO EJECUTAR:
 1.- Descargar el archivo .exe llamado "ReconocimientoVoz.exe"
 
 2.- Ejecutar el archivo .exe descargado.
@@ -36,10 +36,10 @@ COMO EJECUTAR:
 
 
 
-EJECUCION EN VISUAL STUDIO (POR SI SE REQUIERE HACER UN CAMBIO Y VISUZALIZARLO AL MOMENTO)
+# EJECUCION EN VISUAL STUDIO (POR SI SE REQUIERE HACER UN CAMBIO Y VISUZALIZARLO AL MOMENTO)
 
 
-Requisitos:
+# Requisitos:
 1. Python 3.8 o superior
 Descargar desde: python.org
 
@@ -55,7 +55,7 @@ Python (Microsoft)
 
 
 
-COMO EJECUTAR:
+# COMO EJECUTAR:
 
 1. Abrir el proyecto en VS Code
 Abrir Visual Studio Code

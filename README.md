@@ -2,6 +2,13 @@
 #   P R O G R A M A   D E   V O Z  A  T E X T O   S I M P L E
 --------------------------------------------------------------
 
+Primero que nada clonar o descargar el proyecto
+
+Si tienes Git:
+git clone [URL-del-repositorio]
+
+O descargar el ZIP y extraerlo
+
 
 # EJECUCION DEL .EXE
 

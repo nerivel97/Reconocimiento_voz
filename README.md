@@ -5,7 +5,7 @@
 Primero que nada clonar o descargar el proyecto
 
 Si tienes Git:
-git clone [URL-del-repositorio]
+git clone https://github.com/nerivel97/Reconocimiento_voz.git
 
 O descargar el ZIP y extraerlo
 

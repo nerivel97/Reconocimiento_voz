@@ -82,10 +82,8 @@ pipwin install pyaudio
 # O alternativas:
 python -m pip install speechrecognition pyaudio
 
-
-
-5. Ejecucion del programa:
-Método 1: Desde la terminal de VSC
+# Ejecucion del programa:
+# Método 1: Desde la terminal de VSC
 # Navegar a la carpeta del proyecto (si no está ahí)
 cd ruta/a/tu/carpeta
 
@@ -94,7 +92,7 @@ python reconocimiento_voz.py
 
 
 
-Método 2: Desde el botón de ejecución de VS Code
+# Método 2: Desde el botón de ejecución de VS Code
 Dar click derecho en el archivo "reconocimiento_voz.py" y luego dar click izquierdo en "Run Python File in terminal"
 
 

@@ -72,10 +72,6 @@ O Terminal → New Terminal
 3. Instalar las dependencias
 Ejecutar en la terminal:
 
-
-4. Instalar las dependencias
-Ejecutar en la terminal:
-
 # Instalar SpeechRecognition y PyAudio
 pip install speechrecognition pyaudio
 
